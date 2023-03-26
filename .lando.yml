@@ -1,0 +1,6 @@
+name: demo-rain
+recipe: pantheon
+config:
+  framework: drupal8
+  site: demo-rain
+  id: 8bb88c87-1273-4f46-8db6-c2f71c415bda

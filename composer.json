@@ -20,10 +20,25 @@
         "drupal/core-recommended": "^9.2",
         "pantheon-systems/drupal-integrations": "^9",
         "cweagans/composer-patches": "^1.7",
-        "drush/drush": "^11 || ^12"
+        "drush/drush": "^11 || ^12",
+        "drupal/guardr_core": "^2.0",
+        "mediacurrent/mis_profile": "^2.0",
+        "mediacurrent/rain_gin": "^1.0",
+        "mediacurrent/rain_core": "^5.0",
+        "mediacurrent/rain_demo": "^5.0",
+        "mediacurrent/rain_features": "^5.0",
+        "mediacurrent/rain_theme": "^7.0",
+        "oomphinc/composer-installers-extender": "^2.0",
+        "webflo/drupal-finder": "^1.0.0"
     },
     "require-dev": {
-        "drupal/core-dev": "^9.2"
+        "drupal/core-dev": "^9.2",
+        "drupal/drupal-extension": "^4.1",
+        "drush-ops/behat-drush-endpoint": "^9.4.1",
+        "mediacurrent/ci-scripts": "^2.0.0",
+        "mediacurrent/ci-tests": "dev-master",
+        "mglaman/drupal-check": "^1.0",
+        "phpspec/prophecy-phpunit": "^2"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -78,7 +93,8 @@
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "phpstan/extension-installer": true
-        }
+            "phpstan/extension-installer": true,
+            "oomphinc/composer-installers-extender": true,
+            "phpro/grumphp": true        }
     }
 }
