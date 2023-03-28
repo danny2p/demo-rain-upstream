@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "16aabb8b0316a6e05605edbf36648bd2",
+    "content-hash": "0e77fc20e2c1845af177bd2f2e793bd3",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -8049,6 +8049,39 @@
                 "source": "https://github.com/oomphinc/composer-installers-extender/tree/2.0.1"
             },
             "time": "2021-12-15T12:32:42+00:00"
+        },
+        {
+            "name": "pantheon-se/pantheon_autopilot_demo",
+            "version": "v1.0.1640",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Pantheon-SE/pantheon_autopilot_demo.git",
+                "reference": "fe88ef4d8537506243b3e06eefae7fcead2ee4f5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Pantheon-SE/pantheon_autopilot_demo/zipball/fe88ef4d8537506243b3e06eefae7fcead2ee4f5",
+                "reference": "fe88ef4d8537506243b3e06eefae7fcead2ee4f5",
+                "shasum": ""
+            },
+            "type": "drupal-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Taylor (kyletaylored)",
+                    "homepage": "https://www.drupal.org/u/kyletaylored",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "Simple demo to showcase Pantheon Autopilot VRT detection",
+            "support": {
+                "issues": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/issues",
+                "source": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/tree/v1.0.1640"
+            },
+            "time": "2023-03-27T23:07:31+00:00"
         },
         {
             "name": "pantheon-systems/drupal-integrations",
@@ -17611,5 +17644,5 @@
     "platform-overrides": {
         "php": "8.1.13"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.1.0"
 }
