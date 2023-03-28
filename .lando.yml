@@ -1,4 +1,4 @@
-name: demo-rain
+name: demo-rain-upstream
 recipe: pantheon
 config:
   framework: drupal8
