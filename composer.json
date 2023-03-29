@@ -30,7 +30,8 @@
         "mediacurrent/rain_theme": "^7.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "webflo/drupal-finder": "^1.0.0",
-        "pantheon-se/pantheon_autopilot_demo": "^1.0"
+        "pantheon-se/pantheon_autopilot_demo": "^1.0",
+        "drupal/redis": "^1.6"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
