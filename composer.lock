@@ -8052,16 +8052,16 @@
         },
         {
             "name": "pantheon-se/pantheon_autopilot_demo",
-            "version": "v1.0.1640",
+            "version": "v1.0.1644",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pantheon-SE/pantheon_autopilot_demo.git",
-                "reference": "fe88ef4d8537506243b3e06eefae7fcead2ee4f5"
+                "reference": "ad6894dbb4a4aefc0c651a64bc349bca8ada4fb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pantheon-SE/pantheon_autopilot_demo/zipball/fe88ef4d8537506243b3e06eefae7fcead2ee4f5",
-                "reference": "fe88ef4d8537506243b3e06eefae7fcead2ee4f5",
+                "url": "https://api.github.com/repos/Pantheon-SE/pantheon_autopilot_demo/zipball/ad6894dbb4a4aefc0c651a64bc349bca8ada4fb0",
+                "reference": "ad6894dbb4a4aefc0c651a64bc349bca8ada4fb0",
                 "shasum": ""
             },
             "type": "drupal-module",
@@ -8079,9 +8079,9 @@
             "description": "Simple demo to showcase Pantheon Autopilot VRT detection",
             "support": {
                 "issues": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/issues",
-                "source": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/tree/v1.0.1640"
+                "source": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/tree/v1.0.1644"
             },
-            "time": "2023-03-27T23:07:31+00:00"
+            "time": "2023-03-29T11:06:14+00:00"
         },
         {
             "name": "pantheon-systems/drupal-integrations",
