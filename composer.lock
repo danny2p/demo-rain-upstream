@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f16b467e21393c921ddf4cc15b7b4bdd",
+    "content-hash": "542d598522c7137d9255bef941e09acc",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -8113,39 +8113,6 @@
                 "source": "https://github.com/oomphinc/composer-installers-extender/tree/2.0.1"
             },
             "time": "2021-12-15T12:32:42+00:00"
-        },
-        {
-            "name": "pantheon-se/pantheon_autopilot_demo",
-            "version": "v1.0.1646",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Pantheon-SE/pantheon_autopilot_demo.git",
-                "reference": "8b72ea5e9b8f98e3912d9fe33b3947027d755c76"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Pantheon-SE/pantheon_autopilot_demo/zipball/8b72ea5e9b8f98e3912d9fe33b3947027d755c76",
-                "reference": "8b72ea5e9b8f98e3912d9fe33b3947027d755c76",
-                "shasum": ""
-            },
-            "type": "drupal-module",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "Kyle Taylor (kyletaylored)",
-                    "homepage": "https://www.drupal.org/u/kyletaylored",
-                    "role": "Maintainer"
-                }
-            ],
-            "description": "Simple demo to showcase Pantheon Autopilot VRT detection",
-            "support": {
-                "issues": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/issues",
-                "source": "https://github.com/Pantheon-SE/pantheon_autopilot_demo/tree/v1.0.1646"
-            },
-            "time": "2023-03-29T19:06:18+00:00"
         },
         {
             "name": "pantheon-systems/drupal-integrations",
