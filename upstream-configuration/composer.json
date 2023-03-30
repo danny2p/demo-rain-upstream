@@ -23,10 +23,11 @@
         "mediacurrent/rain_theme": "^7.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "webflo/drupal-finder": "^1.0.0",
-        "drupal/redis": "^1.6"
+        "drupal/redis": "^1.6",
+        "drupal/pantheon_advanced_page_cache": "^2.1"
     },
     "require-dev": {
-        "drupal/core-dev": "^9.2",
+        "drupal/core-dev": "^9.4",
         "drupal/drupal-extension": "^4.1",
         "drush-ops/behat-drush-endpoint": "^9.4.1",
         "mediacurrent/ci-scripts": "^2.0.0",
