@@ -23,7 +23,9 @@
         "mediacurrent/rain_theme": "^7.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "webflo/drupal-finder": "^1.0.0",
-        "drupal/redis": "^1.6"
+        "drupal/redis": "^1.6",
+        "drupal/pantheon_advanced_page_cache": "^2.1",
+        "drupal/cache_control_override": "^2.0@RC"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
