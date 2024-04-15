@@ -14,9 +14,8 @@
         }
     ],
     "require": {
-        "pantheon-upstreams/upstream-configuration": "dev-main"
-    },
-    "require-dev": {
+        "pantheon-upstreams/upstream-configuration": "dev-main",
+        "drupal/core-recommended": "9.5.7"
     },
     "conflict": {
         "drupal/drupal": "*"
